@@ -1,3 +1,16 @@
+# Folder
+build
+
+# Qt Stash
+.qmake.stash
+
+# Qt Generate
+Makefile
+new.Makefile
+
+# Bin
+GraphViz
+
 # Prerequisites
 *.d
 
